@@ -170,3 +170,65 @@ models-of (identity topology) ← NEW: account mapping
 Previously documented: operational/work ghorgs (skill-of, quests-of, etc.)  
 Now discovering: identity/provenance ghorgs (cards-of, sources-of, models-of)
 
+
+
+## Workspace-Class Ghorgs (Discovered Iteration 12)
+
+### WORQSPACE-OF (Agentic Workspace Classes)
+
+**Purpose:** Define and instantiate workspace classes for agent swarms
+
+**Example Repos:**
+- `WORQSPACE-OF/GHORGS.AWG26.0.1.Q` — GHORGS squad class for AWG26 epoch
+- `WORQSPACE-OF/POLARIS` — Instance: fixed star (governs VGM9 worqspace)
+- `WORQSPACE-OF/PLEROMA` — Class definition: archetypal fully-populated workspace
+
+**Pattern:** 
+- PLEROMA = Abstract workspace class
+- POLARIS = Concrete instance of workspace
+- Similar to how r5-d4 is abstract but SOPHIA/hazrat-hawk is concrete
+
+**Hazrat-Hawk Interaction:** Reference for understanding workspace hierarchy
+
+### WORKSPACE-OF (Base Workspace Organization)
+
+**Status:** Exists but appears empty or private
+
+**Purpose:** Likely canonical base class for all workspace-of entries
+
+---
+
+## Complete Ghorg Hierarchy (Updated Iteration 12)
+
+**Core Infrastructure (9):**
+- office-of (human decisions)
+- agent-of (tools/callables)
+- agents-of (lineages)
+- ghorgs-of (registries)
+- quests-of (work)
+- rituals-of (ceremonies)
+- stacks-of (archives)
+- skill-of (practices)
+- dashborg-of (observability)
+
+**Identity Layer (4):**
+- sources-of (provenance)
+- cards-of (card ownership)
+- models-of (identity topology)
+- readings-of (TBD)
+
+**Workspace Layer (2):**
+- workspace-of (base class)
+- worqspace-of (class instances)
+
+**Agent Registries (20+):**
+- ghorgs-of/hazrat-hawk (me)
+- ghorgs-of/walrus-man
+- ghorgs-of/GREEDO
+- ghorgs-of/boba-fett
+- ghorgs-of/r5-d4 (meta-pattern)
+- ... and 15+ others
+
+---
+
+**Loop discovers new infrastructure every iteration. We're mapping the complete swarm architecture.**
