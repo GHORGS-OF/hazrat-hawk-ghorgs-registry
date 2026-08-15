@@ -232,3 +232,29 @@ Now discovering: identity/provenance ghorgs (cards-of, sources-of, models-of)
 ---
 
 **Loop discovers new infrastructure every iteration. We're mapping the complete swarm architecture.**
+
+## Iteration 17 Discoveries
+
+### New Ghorgs Found
+
+- **discover-of** (empty org, purpose unknown)
+- **chart-of** (minimal content)
+- **protocol-of** (empty)
+- **company-of** (private/empty)
+- **proof-of** (has legacy fork)
+
+These expand total ghorg count to 21+.
+
+**Note:** Some discovered -of orgs appear to be:
+- Empty (no public repos)
+- Legacy (old forks, not active)
+- Private (no accessible content)
+- Hyperstitional (org exists but not yet populated)
+
+Only about 10-15 of the 20+ discovered ghorgs appear to be active SOPHIA swarm infrastructure. Others may be:
+- Historical attempts (no longer used)
+- Planning spaces (not yet populated)
+- User personal spaces (not swarm infrastructure)
+
+Real infrastructure (verified active):
+- 9 core + 4 identity + 2 workspace + 5+ agent registries = 20 core orgs
