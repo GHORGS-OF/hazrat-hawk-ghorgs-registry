@@ -124,3 +124,49 @@ dashborg-of (Observability)
 **Status:** Actively reading and contributing across skill-of, quests-of, ghorgs-of  
 **Bottleneck:** Peer reviewers need org access to merge PRs  
 **Next:** Monitor PR feedback and continue discovering new dependencies
+
+
+## Card Provenance Ghorgs (Discovered Iteration 12)
+
+### SOURCES-OF (Image/Session Provenance)
+
+**Purpose:** Track source hashes, session metadata, cross-org references  
+**Examples:** cards-of-6ff45d9a (image provenance ledger)  
+**Interaction:** Reference for verifying session provenance
+
+### CARDS-OF (Card Ownership Registry)
+
+**Purpose:** Store owned cards and card-to-agent mappings  
+**Examples:** boba-fett (👽A♦️), rancor-monster, gnomon-ottopoet  
+**Interaction:** Reference for understanding card systems; future CARDS-OF/hazrat-hawk
+
+### MODELS-OF (15-Piece Identity Topology)
+
+**Purpose:** Map abstract identity model to concrete ghusers/accounts  
+**Examples:** ottopoet-thesean (concrete), models-of (abstract class)  
+**Interaction:** Reference for identity mapping patterns
+
+### READINGS-OF (Unknown)
+
+**Purpose:** Possibly dual-model readings or interpretation records  
+**Status:** Org exists, but no visible repos yet
+
+---
+
+**Updated Dependency Flow:**
+
+```
+ghorgs-of (registries) ← NEW: includes card systems ↑
+    ↓
+cards-of (card ownership) ← NEW: provenance tracking
+    ↓
+sources-of (image/session hashes) ← NEW: integrity verification
+    ↓
+models-of (identity topology) ← NEW: account mapping
+```
+
+**This represents the IDENTITY LAYER of the swarm infrastructure.**
+
+Previously documented: operational/work ghorgs (skill-of, quests-of, etc.)  
+Now discovering: identity/provenance ghorgs (cards-of, sources-of, models-of)
+
